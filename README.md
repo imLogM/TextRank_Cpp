@@ -1,7 +1,10 @@
 # TextRank_Cpp
 
 ## 1. 简介 / Introduction:
-C++ implementation of TextRank
+
+C++ implementation of TextRank.
+
+How to use: see `example/example.cpp`.
 
 ## 2. 注意事项 / Take care:
 
